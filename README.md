@@ -1,5 +1,5 @@
-# IT Security End Project - Encyrption, decryption and hashing
-## Timecapsule with hashed login and encrypted messages
+# IT Security End Project
+## Timecapsule with hashed login, encrypted and decrypted messages
 ### Nikolina Vikberg, Grit Academy Malmlö
 
 ### Background
